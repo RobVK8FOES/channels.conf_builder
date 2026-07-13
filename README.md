@@ -1,5 +1,5 @@
 # channels.conf_builder
-A simple C application to build a channels.conf file for dvbv5-zap using AltDVB format .INI transponder lists. Instead of laboriously transcribing a data transponders tuning parameters into your channels.conf for capturing with dvbv5-zap, wouldn't it be nice if we could automate the process? Your boy Rob has got your covered! Tested and working on DragonOS FocalX R37. WARNING: Coded with AI, use at your own risk!
+A simple C++ application to build a channels.conf file for dvbv5-zap using AltDVB format .INI transponder lists. Instead of laboriously transcribing a data transponders tuning parameters into your channels.conf for capturing with dvbv5-zap, wouldn't it be nice if we could automate the process? Your boy Rob has got your covered! Tested and working on DragonOS FocalX R37. WARNING: Coded with AI, use at your own risk!
 
 ## DOWNLOAD AND BUILD
 
